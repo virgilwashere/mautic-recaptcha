@@ -9,7 +9,7 @@
 return [
     'name'        => 'reCAPTCHA',
     'description' => 'Enables reCAPTCHA integration.',
-    'version'     => '1.0',
+    'version'     => '1.1.4',
     'author'      => 'Konstantin Scheumann',
 
     'routes' => [
